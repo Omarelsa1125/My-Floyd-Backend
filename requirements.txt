@@ -1,0 +1,9 @@
+flask
+steam[client]
+requests
+gunicorn
+pyyaml
+python-dateutil
+flask-cors
+msal
+cityhash
